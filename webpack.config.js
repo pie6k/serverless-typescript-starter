@@ -16,6 +16,8 @@ module.exports = {
   },
 };
 
+// When webpack 2 will be supported with serverless-webpack, it'll look like:
+
 // module.exports = {
 //   entry: './src/handler.ts',
 //   output: {
